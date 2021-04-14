@@ -1,0 +1,5 @@
+﻿  MP2.cpp
+C:\C++Liam Martell\MP2\MP2\MP2\MP2.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C++Liam Martell\MP2\MP2\MP2\MP2.cpp(185): warning C4715: 'isTurnScoreLost': not all control paths return a value
+C:\C++Liam Martell\MP2\MP2\MP2\MP2.cpp(203): warning C4715: 'isGameScoreLost': not all control paths return a value
+  MP2.vcxproj -> C:\C++Liam Martell\MP2\MP2\Debug\MP2.exe

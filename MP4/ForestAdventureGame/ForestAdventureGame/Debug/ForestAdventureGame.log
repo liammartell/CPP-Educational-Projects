@@ -1,0 +1,13 @@
+﻿  ForestAdventureGame.cpp
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(151,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(351,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(375,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(399,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(424,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(449,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(474,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(499,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(523,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(547,22): warning C4018: '<': signed/unsigned mismatch
+C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\ForestAdventureGame\ForestAdventureGame.cpp(644): warning C4715: 'riddles': not all control paths return a value
+  ForestAdventureGame.vcxproj -> C:\C++Liam Martell\MPS\MP4\ForestAdventureGame\Debug\ForestAdventureGame.exe
