@@ -1,0 +1,3 @@
+MP2 tasked us with creating a simple dice rolling game, where 2 players roll dice with the goal to get to 100 points first.
+The points are the sum of the dice roll, and if they roll a one they get a zero for that round. If they roll snake eyes (0, 0),
+their entire score is reset to 0.
